@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="25.6"
+   height="25.6"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="emblem-downloads.svg"
+   viewBox="0 0 24 24">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.95535"
+     inkscape:cx="-0.56013573"
+     inkscape:cy="13.439083"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="4.4999999,19.500017"
+       orientation="15,0"
+       id="guide3264"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4.4999999,4.5000173"
+       orientation="0,15"
+       id="guide3266"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.5,4.5000173"
+       orientation="-15,0"
+       id="guide3268"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.5,19.500017"
+       orientation="0,-15"
+       id="guide3270"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <rect
+       style="fill:none;stroke:none"
+       id="rect3260"
+       width="15"
+       height="15"
+       x="4.5"
+       y="1032.8622" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="M 11.996094,4.5 C 8.0688302,4.5002328 4.5,8.0733262 4.5,12 c 0,3.926674 3.5688302,7.499767 7.496094,7.5 C 15.923357,19.500233 19.5,15.927112 19.5,12 19.5,8.0728883 15.923357,4.4997672 11.996094,4.5 Z m 0.002,2 C 14.87804,6.4998293 17.5,9.1201181 17.5,12 c 0,2.879882 -2.62196,5.500171 -5.501953,5.5 C 9.1180535,17.499829 6.5,14.879561 6.5,12 6.5,9.1204392 9.1180535,6.5001707 11.998047,6.5 Z"
+       transform="translate(0,1028.3622)"
+       id="path3276"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3272"
+       cx="11.999307"
+       cy="1046.8622"
+       rx="1.0006928"
+       ry="1.0000308" />
+    <ellipse
+       id="path3274"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       cx="11.999307"
+       cy="1033.8622"
+       rx="1.0006928"
+       ry="1.0000308" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 11,8.5 v 3 H 9 l 3,4 3,-4 h -2 v -3 z"
+       transform="translate(0,1028.3622)"
+       id="rect3281"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3283"
+       cx="11.999307"
+       cy="1035.8622"
+       rx="1.0006928"
+       ry="1.0000308" />
+    <ellipse
+       id="path3287"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       cx="11.999307"
+       cy="1044.8622"
+       rx="1.0006928"
+       ry="1.0000308" />
+  </g>
+</svg>
